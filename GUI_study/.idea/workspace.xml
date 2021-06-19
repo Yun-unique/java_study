@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49f8179e-7b0f-44a8-9aa6-d93e95306b07" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r9NVXB98apsHvzZ8GMzOVlXkRu" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86187\Desktop\Java\GUI_study\out\production\GUI_study\com\snake" />
+      <recent name="C:\Users\86187\Desktop\Java\GUI_study\out\production\GUI_study\com\lesson05" />
+      <recent name="C:\Users\86187\Desktop\Java\GUI_study\src\com\lesson04" />
+      <recent name="C:\Users\86187\Desktop\Java\GUI_study\src\com\lesson05" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86187\Desktop\Java\GUI_study\src" />
+      <recent name="C:\Users\86187\Desktop\Java\GUI_study\src\com\snake" />
+      <recent name="C:\Users\86187\Desktop\Java\GUI_study\static" />
+      <recent name="C:\Users\86187\Desktop\Java\GUI_study\out\production\GUI_study\com\snake" />
+      <recent name="C:\Users\86187\Desktop\Java\GUI_study\src\com\lesson05" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StartGame">
+    <configuration name="JButtonDemon01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson05.JButtonDemon01" />
+      <module name="GUI_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.snake.StartGame" />
+      <module name="GUI_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBorderLayout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson01.TestBorderLayout" />
+      <module name="GUI_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestComboboxDemon01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson06.TestComboboxDemon01" />
+      <module name="GUI_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTextDemon02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson06.TestTextDemon02" />
+      <module name="GUI_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartGame" />
+        <item itemvalue="Application.TestBorderLayout" />
+        <item itemvalue="Application.TestComboboxDemon01" />
+        <item itemvalue="Application.JButtonDemon01" />
+        <item itemvalue="Application.TestTextDemon02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49f8179e-7b0f-44a8-9aa6-d93e95306b07" name="默认更改列表" comment="" />
+      <created>1618384369168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618384369168</updated>
+      <workItem from="1618384378746" duration="12882000" />
+      <workItem from="1618459467770" duration="5865000" />
+      <workItem from="1618482147473" duration="7416000" />
+      <workItem from="1618544176482" duration="23677000" />
+      <workItem from="1618578482277" duration="5941000" />
+      <workItem from="1618623437650" duration="741000" />
+      <workItem from="1618627751552" duration="11830000" />
+      <workItem from="1618646058358" duration="3981000" />
+      <workItem from="1618650619739" duration="1442000" />
+      <workItem from="1618652808166" duration="4975000" />
+      <workItem from="1618724181488" duration="2422000" />
+      <workItem from="1622451593577" duration="400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="936" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1618641240180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="936" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1618641240180" />
+    <state x="911" y="170" key="FileChooserDialogImpl" timestamp="1618733042532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="911" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618733042532" />
+    <state width="844" height="140" key="GridCell.Tab.0.bottom" timestamp="1622451997395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="844" height="140" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622451997395" />
+    <state width="844" height="140" key="GridCell.Tab.0.center" timestamp="1622451997395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="844" height="140" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622451997395" />
+    <state width="844" height="140" key="GridCell.Tab.0.left" timestamp="1622451997395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="844" height="140" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622451997395" />
+    <state width="844" height="140" key="GridCell.Tab.0.right" timestamp="1622451997395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="844" height="140" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622451997395" />
+    <state x="540" y="57" key="SettingsEditor" timestamp="1618460185920">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1618460185920" />
+    <state x="821" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1618635216601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="821" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1618635216601" />
+  </component>
+</project>
